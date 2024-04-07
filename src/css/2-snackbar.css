@@ -9,6 +9,7 @@ body {
   .form {
     display: flex;
     flex-direction: column;
+    padding-left: 0px;
     padding-top: 36px;
     align-items: start;
     color: #2e2f42;
